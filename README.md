@@ -68,8 +68,8 @@ Utilized formal concept analysis and concept lattice for document categorization
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="186em" src="https://github-readme-stats.vercel.app/api?username=KevinZh0A&show_icons=true&theme=tokyonight" alt="GitHub Readme Stats" />
-  <img height="186em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinZh0A&theme=dark&hide_border=true" alt="GitHub Readme Streak Stats" />
+  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=KevinZh0A&show_icons=true&theme=tokyonight" alt="GitHub Readme Stats" />
+  <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinZh0A&theme=dark&hide_border=true" alt="GitHub Readme Streak Stats" />
 </p>
 
 ## 📫 Get in Touch
